@@ -25,22 +25,22 @@
 ---
 
 ## 🗂️ Project Structure
+```
 movie_ratings_dashboard/
 │
 ├── data/
-│   └── movies.csv
+│ └── movies.csv
 │
 ├── src/
-│   └── movie_dashboard.py
+│ └── movie_dashboard.py
 │
 ├── outputs/
-│   ├── genre_popularity.png
-│   ├── rating_trend.png
-│   ├── top_movies.png
+│ ├── genre_popularity.png
+│ ├── rating_trend.png
+│ ├── top_movies.png
 │
 └── README.md
-
----
+```
 
 ## ▶️ How to Run
 ```bash
