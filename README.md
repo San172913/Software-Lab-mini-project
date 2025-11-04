@@ -72,7 +72,10 @@ Add word clouds or genre filters
 ✨ Author
 
 Sankalp Satpathi
+
 Aditya Sakarkar
+
 Lakshya Agrawal
+
 Made with ❤️ using Python, Data & Visualization.
 
