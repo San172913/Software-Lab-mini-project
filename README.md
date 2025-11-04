@@ -52,7 +52,7 @@ cd movie-ratings-dashboard
 pip install numpy pandas matplotlib
 
 # Run the project
-python src/movie_dashboard.py
+```
 📊 Example Insights
 
 🎬 Action and Drama genres have the highest ratings
@@ -75,3 +75,4 @@ Sankalp Satpathi
 Aditya Sakarkar
 Lakshya Agrawal
 Made with ❤️ using Python, Data & Visualization.
+
